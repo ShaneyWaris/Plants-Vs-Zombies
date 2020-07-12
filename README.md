@@ -1,6 +1,6 @@
 # Plants-Vs-Zombies
-This game is the final project of my "Advance Programming" course in third semester.
-## Technology: Java, JavaFX  
+This game is the final project of my "Advance Programming" course in third semester. <br />
+Technology: Java, JavaFX  
 
 # Project Deadline-1: UML Diagram
 For this deadline, we need to create the UML diagrams of our project: 
